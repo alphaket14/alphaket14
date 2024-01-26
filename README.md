@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with **Spring Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://somaksomanchi1kris.wixsite.com/portfolio](https://somaksomanchi1kris.wixsite.com/portfolio)
-
 - 💬 Ask me about **React, Django, AWS**
 
 - 📫 How to reach me **somaksomanchi1krishna@gmail.com**
