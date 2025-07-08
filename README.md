@@ -3,15 +3,15 @@
 <img align="right" src="/Ry6p.gif" width=400 height=400>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphaket14&label=Profile%20views&color=0e75b6&style=flat" alt="alphaket14" /> </p>
 
-- 🔭 I’m currently working on **Meshery Solutions**
+- 🔭 I’m currently working on **Quognitive Technologies**
 
-- 🌱 I’m currently learning **Solidity, smart Contracts**
+- 🌱 I’m currently learning **Team and Project Management**
 
-- 👯 I’m looking to collaborate on **AWS projects**
+- 👯 I’m looking to collaborate on **AI/LLM/NLP Projects**
 
-- 🤝 I’m looking for help with **Spring Frameworks**
+- 🤝 I’m looking for help with **Talent Acquisition Partners**
 
-- 💬 Ask me about **React, Django, AWS**
+- 💬 Ask me about **AWS/GCP/Azure, OpenAI/Vertex/Anthropic Integrations, API Integrations**
 
 - 📫 How to reach me **somak@quognitive.com**
 
